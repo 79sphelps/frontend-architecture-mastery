@@ -1,3 +1,54 @@
-# React Product Architecture
+# Frontend Architecture Mastery
 
-TBD - Focused architecture deep dives
+## Overview
+
+This repository demonstrates advanced frontend architecture patterns through small focused mini-projects.
+
+---
+
+## Projects
+
+1. Feature-Based Architecture  
+2. Clean Architecture Refactor  
+3. State Orchestration  
+4. Performance Architecture (TBD)
+5. Design System Architecture (TBD)
+6. System Design (TBD)
+
+---
+
+## Goals
+
+- Demonstrate senior-level frontend architecture
+- Provide production-grade patterns
+- Showcase scalability and maintainability
+
+---
+
+## Tech Stack
+
+- React
+- TypeScript
+- React Query
+- Zustand
+- Vite
+- Jest / Testing Library
+- Playwright
+
+---
+
+## Key Skills
+
+- Architecture design
+- State management
+- Performance optimization
+- UI system design
+- Testing strategy
+
+---
+
+## How to Run
+
+cd projects/01-feature-architecture  
+npm install  
+npm run dev  
