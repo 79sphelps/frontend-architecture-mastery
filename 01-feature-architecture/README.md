@@ -3,6 +3,7 @@
 ## Run
 npm install
 npm run dev
+npm test
 
 ## What to Observe
 - Feature isolation
@@ -41,8 +42,3 @@ Features own their logic, UI, and API
 - Integration: components
 
 - E2E: user flows
-
-## How to Run
-npm install
-npm run dev
-npm test
